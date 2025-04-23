@@ -1,0 +1,99 @@
+﻿<UserControl x:Class="APPLICATION.Views.AproposView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:APPLICATION.Views"
+              xmlns:fa ="http://schemas.fontawesome.io/icons/"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="{DynamicResource BackgroundBrush}">
+
+
+        <Grid.ColumnDefinitions >
+            <ColumnDefinition Width="10" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="30" />
+            <ColumnDefinition Width="30" />
+            <ColumnDefinition Width="30" />
+
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="150"/>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackPanel  Grid.Row="1" Grid.ColumnSpan="5" Grid.RowSpan="7" Margin="5,0,10,10">
+            <StackPanel.Effect>
+                <BlurEffect Radius="20"  />
+            </StackPanel.Effect>
+
+        </StackPanel>
+        <ScrollViewer  Grid.Column ="1" Grid.Row="1" Grid.RowSpan="5" Grid.ColumnSpan="2" VerticalScrollBarVisibility="Auto">
+            <StackPanel Grid.Column="2" Grid.Row="2"  >
+                <Label>
+                    <StackPanel Orientation="Horizontal">
+                        <fa:ImageAwesome  Foreground="{DynamicResource IconBrush}" Icon="InfoCircle"  Width="40" Margin="0,0,5,0"/>
+                        <AccessText Foreground="{DynamicResource TextBrush}" FontSize="40" Text="A propos" ></AccessText>
+
+                    </StackPanel>
+                </Label>
+
+                <TextBlock Foreground="{DynamicResource TextBrush}" FontSize="20" FontFamily="{StaticResource pt-serif.bold}"><LineBreak/>  Projet N°05 :</TextBlock>
+                <TextBlock Foreground="{DynamicResource TextBrush}" TextWrapping="Wrap" FontSize="13">Réalisation d'un outil d’optimisation de fonctions logiques 
+                 par des méthodes algorithmiques, et synthèse de la fonction simplifiée .
+
+
+                </TextBlock>
+                <TextBlock Foreground="{DynamicResource TextBrush}" FontSize="20" FontFamily="{StaticResource pt-serif.bold}" > <LineBreak/> Objectifs du projet :</TextBlock>
+                <TextBlock Foreground="{DynamicResource TextBrush}" TextWrapping="Wrap" FontSize="13">
+                 -  Faciliter la simplification(optimisation) des fonctions logiques dont le nombre de variables varie entre 4 et 15 tout en minimisant le cout.
+                </TextBlock>
+                <TextBlock Foreground="{DynamicResource TextBrush}" TextWrapping="Wrap" FontSize="13">
+                 -Fournir une image graphique et visuelle de la fonction simplifiée ce qui permettra une assimilation plus rapide chez l’utilisateur.
+                </TextBlock>
+                <TextBlock Foreground="{DynamicResource TextBrush}" TextWrapping="Wrap" FontSize="13">
+                 -Garantir le meilleur des résultats (un résultat optimal)
+                </TextBlock>
+                <TextBlock Foreground="{DynamicResource TextBrush}" TextWrapping="Wrap" FontSize="13">
+                 - Avoir la possibilité de suivre le déroulement de l’optimisation étape par étape (la trace)
+                </TextBlock>
+                <TextBlock Foreground="{DynamicResource TextBrush}" FontSize="20" FontFamily="{StaticResource pt-serif.bold}"><LineBreak/> Les membres de l'équipe :</TextBlock>
+                <TextBlock Foreground="{DynamicResource TextBrush}" TextWrapping="Wrap" FontSize="13" >
+                    
+                 <TextBlock Foreground="{DynamicResource TextBrush}" TextWrapping="Wrap" FontSize="13">
+                 -   HAMMI Laeticia (CE)                   
+                </TextBlock>   
+                 <LineBreak />
+                    <TextBlock Foreground="{DynamicResource TextBrush}" TextWrapping="Wrap" FontSize="13">
+                 -   MAKHLOUF Fatma                    
+                </TextBlock>
+                 <LineBreak />
+                    <TextBlock Foreground="{DynamicResource TextBrush}" TextWrapping="Wrap" FontSize="13">
+                 -   CHERIEF Thanina                    
+                </TextBlock>
+                 <LineBreak />
+                    <TextBlock Foreground="{DynamicResource TextBrush}" TextWrapping="Wrap" FontSize="13">
+                 -   BOUKHALFA Oumaima                    
+                </TextBlock>
+                 <LineBreak />
+                    <TextBlock Foreground="{DynamicResource TextBrush}" TextWrapping="Wrap" FontSize="13">
+                 -   TAGZIRT Elissa                    
+                </TextBlock>
+                 <LineBreak />
+                    <TextBlock Foreground="{DynamicResource TextBrush}" TextWrapping="Wrap" FontSize="13">
+                 -   BELAROUSSI Sofia                    
+                </TextBlock>
+                 <LineBreak />
+                    
+                </TextBlock>
+            </StackPanel>
+        </ScrollViewer>
+
+    </Grid>
+</UserControl>

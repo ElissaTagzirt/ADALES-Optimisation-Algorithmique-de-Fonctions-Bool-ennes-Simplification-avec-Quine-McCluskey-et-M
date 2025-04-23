@@ -1,0 +1,749 @@
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\APPLICATION.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\APPLICATION.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\App.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\APPLICATION_MarkupCompile.cache
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\APPLICATION_MarkupCompile.lref
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\bin\Debug\APPLICATION.exe.config
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\bin\Debug\APPLICATION.exe
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\bin\Debug\APPLICATION.pdb
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\MainWindow.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\APPLICATION.g.resources
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\APPLICATION.Properties.Resources.resources
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\APPLICATION.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\APPLICATION.exe
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\APPLICATION.pdb
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Components\NavigationBare.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Components\NavigationBare.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Views\AjouterFonctionView.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Views\DictionnaireView.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Views\SyntheseView.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Views\AjouterFonctionView.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Views\DictionnaireView.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Views\SyntheseView.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Views\LitteraleView.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Views\LitteraleView.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Views\NumeriqueView.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Views\NumeriqueView.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\bin\Debug\FontAwesome.WPF.xml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\APPLICATION.csproj.CopyComplete
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Views\AccueilView.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Views\AccueilView.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Components\NavigationBar.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Components\NavigationBar.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Views\AideView.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Views\ParametreView.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Views\AideView.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Views\ParametreView.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Components\Layout.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Components\Layout.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Styles\Buttons.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\App.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Styles\Colors.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\APPLICATION\obj\Debug\Styles\Fonts.baml
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\bin\Debug\APPLICATION.exe.config
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\bin\Debug\APPLICATION.exe
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\bin\Debug\APPLICATION.pdb
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\bin\Debug\FontAwesome.WPF.xml
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.AssemblyReference.cache
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Styles\Buttons.baml
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Styles\Colors.baml
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Styles\Fonts.baml
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Components\Layout.g.cs
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBar.g.cs
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBare.g.cs
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\MainWindow.g.cs
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Views\AccueilView.g.cs
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Views\AideView.g.cs
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Views\AjouterFonctionView.g.cs
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Views\DictionnaireView.g.cs
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Views\LitteraleView.g.cs
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Views\NumeriqueView.g.cs
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Views\ParametreView.g.cs
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Views\SyntheseView.g.cs
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\App.g.cs
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\APPLICATION_MarkupCompile.cache
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\APPLICATION_MarkupCompile.lref
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\App.baml
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Components\Layout.baml
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBar.baml
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBare.baml
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\MainWindow.baml
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Views\AccueilView.baml
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Views\AideView.baml
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Views\AjouterFonctionView.baml
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Views\DictionnaireView.baml
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Views\LitteraleView.baml
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Views\NumeriqueView.baml
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Views\ParametreView.baml
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Views\SyntheseView.baml
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\APPLICATION.g.resources
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\APPLICATION.Properties.Resources.resources
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.GenerateResource.cache
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.CopyComplete
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\APPLICATION.exe
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\APPLICATION.pdb
+C:\Users\Oumaima\Desktop\Projet 2cp\APPLICATION\APPLICATION\obj\Debug\Styles\WindowDark.baml
+D:\APPLICATION\APPLICATION\bin\Debug\APPLICATION.exe.config
+D:\APPLICATION\APPLICATION\bin\Debug\APPLICATION.exe
+D:\APPLICATION\APPLICATION\bin\Debug\APPLICATION.pdb
+D:\APPLICATION\APPLICATION\bin\Debug\FontAwesome.WPF.dll
+D:\APPLICATION\APPLICATION\bin\Debug\FontAwesome.WPF.xml
+D:\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.AssemblyReference.cache
+D:\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.SuggestedBindingRedirects.cache
+D:\APPLICATION\APPLICATION\obj\Debug\Styles\Buttons.baml
+D:\APPLICATION\APPLICATION\obj\Debug\Styles\Colors.baml
+D:\APPLICATION\APPLICATION\obj\Debug\Styles\Fonts.baml
+D:\APPLICATION\APPLICATION\obj\Debug\Components\Layout.g.cs
+D:\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBar.g.cs
+D:\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBare.g.cs
+D:\APPLICATION\APPLICATION\obj\Debug\MainWindow.g.cs
+D:\APPLICATION\APPLICATION\obj\Debug\Views\AccueilView.g.cs
+D:\APPLICATION\APPLICATION\obj\Debug\Views\AideView.g.cs
+D:\APPLICATION\APPLICATION\obj\Debug\Views\AjouterFonctionView.g.cs
+D:\APPLICATION\APPLICATION\obj\Debug\Views\DictionnaireView.g.cs
+D:\APPLICATION\APPLICATION\obj\Debug\Views\LitteraleView.g.cs
+D:\APPLICATION\APPLICATION\obj\Debug\Views\NumeriqueView.g.cs
+D:\APPLICATION\APPLICATION\obj\Debug\Views\ParametreView.g.cs
+D:\APPLICATION\APPLICATION\obj\Debug\Views\SyntheseView.g.cs
+D:\APPLICATION\APPLICATION\obj\Debug\App.g.cs
+D:\APPLICATION\APPLICATION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\APPLICATION\APPLICATION\obj\Debug\APPLICATION_MarkupCompile.cache
+D:\APPLICATION\APPLICATION\obj\Debug\APPLICATION_MarkupCompile.lref
+D:\APPLICATION\APPLICATION\obj\Debug\App.baml
+D:\APPLICATION\APPLICATION\obj\Debug\Components\Layout.baml
+D:\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBar.baml
+D:\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBare.baml
+D:\APPLICATION\APPLICATION\obj\Debug\MainWindow.baml
+D:\APPLICATION\APPLICATION\obj\Debug\Styles\WindowDark.baml
+D:\APPLICATION\APPLICATION\obj\Debug\Views\AccueilView.baml
+D:\APPLICATION\APPLICATION\obj\Debug\Views\AideView.baml
+D:\APPLICATION\APPLICATION\obj\Debug\Views\AjouterFonctionView.baml
+D:\APPLICATION\APPLICATION\obj\Debug\Views\DictionnaireView.baml
+D:\APPLICATION\APPLICATION\obj\Debug\Views\LitteraleView.baml
+D:\APPLICATION\APPLICATION\obj\Debug\Views\NumeriqueView.baml
+D:\APPLICATION\APPLICATION\obj\Debug\Views\ParametreView.baml
+D:\APPLICATION\APPLICATION\obj\Debug\Views\SyntheseView.baml
+D:\APPLICATION\APPLICATION\obj\Debug\APPLICATION.g.resources
+D:\APPLICATION\APPLICATION\obj\Debug\APPLICATION.Properties.Resources.resources
+D:\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.GenerateResource.cache
+D:\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.CoreCompileInputs.cache
+D:\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.CopyComplete
+D:\APPLICATION\APPLICATION\obj\Debug\APPLICATION.exe
+D:\APPLICATION\APPLICATION\obj\Debug\APPLICATION.pdb
+D:\APPLICATION\APPLICATION\obj\Debug\Views\AproposView.g.cs
+D:\APPLICATION\APPLICATION\obj\Debug\Views\AproposView.baml
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\APPLICATION.exe.config
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\APPLICATION.exe
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\APPLICATION.pdb
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\Haley.Abstractions.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\Haley.Extensions.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\Haley.Helpers.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\Haley.IOC.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\Haley.MVVM.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\protobuf-net.Core.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\protobuf-net.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\System.Buffers.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\System.CodeDom.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\System.Drawing.Common.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\System.Memory.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\System.Text.Json.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\System.ValueTuple.dll
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.AssemblyReference.cache
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Components\Layout.g.cs
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBar.g.cs
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBare.g.cs
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\MainWindow.g.cs
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Views\AccueilView.g.cs
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Views\AideView.g.cs
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Views\AjouterFonctionView.g.cs
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Views\AproposView.g.cs
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Views\DictionnaireView.g.cs
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Views\LitteraleView.g.cs
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Views\NumeriqueView.g.cs
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Views\ParametreView.g.cs
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Views\SyntheseView.g.cs
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\App.g.cs
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\APPLICATION_MarkupCompile.cache
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\APPLICATION_MarkupCompile.lref
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\App.baml
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Components\Layout.baml
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBar.baml
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBare.baml
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\MainWindow.baml
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Views\AccueilView.baml
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Views\AideView.baml
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Views\AjouterFonctionView.baml
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Views\AproposView.baml
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Views\DictionnaireView.baml
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Views\LitteraleView.baml
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Views\NumeriqueView.baml
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Views\ParametreView.baml
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Views\SyntheseView.baml
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\APPLICATION.g.resources
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\APPLICATION.Properties.Resources.resources
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.GenerateResource.cache
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.CopyComplete
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\APPLICATION.exe
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\APPLICATION.pdb
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Styles\ThemeLight.baml
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Styles\BaseRD.baml
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Styles\ThemeDark.baml
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Views\TraceNumeriqueView.g.cs
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Views\TraceView.g.cs
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Views\TraceNumeriqueView.baml
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\obj\Debug\Views\TraceView.baml
+C:\Users\Oumaima\Desktop\Nouveau dossier (2)\APPLICATION_Modification_DarkMode\APPLICATION_Modification\APPLICATION\APPLICATION\bin\Debug\Haley.WPF.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\APPLICATION.exe.config
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\APPLICATION.exe
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\APPLICATION.pdb
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Haley.Abstractions.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Haley.Extensions.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Haley.Helpers.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Haley.IOC.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Haley.MVVM.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Haley.WPF.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\protobuf-net.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\protobuf-net.Core.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Buffers.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.CodeDom.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Drawing.Common.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Memory.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Text.Json.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.ValueTuple.dll
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.AssemblyReference.cache
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Styles\ThemeDark.baml
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Styles\ThemeLight.baml
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Components\Layout.g.cs
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBar.g.cs
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBare.g.cs
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\MainWindow.g.cs
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AccueilView.g.cs
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AideView.g.cs
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AjouterFonctionView.g.cs
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AproposView.g.cs
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\DictionnaireView.g.cs
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\LitteraleView.g.cs
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\NumeriqueView.g.cs
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\ParametreView.g.cs
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\SyntheseView.g.cs
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\TraceNumeriqueView.g.cs
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\TraceView.g.cs
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\App.g.cs
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION_MarkupCompile.cache
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION_MarkupCompile.lref
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\App.baml
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Components\Layout.baml
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBar.baml
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBare.baml
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\MainWindow.baml
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AccueilView.baml
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AideView.baml
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AjouterFonctionView.baml
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AproposView.baml
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\DictionnaireView.baml
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\LitteraleView.baml
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\NumeriqueView.baml
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\ParametreView.baml
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\SyntheseView.baml
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\TraceNumeriqueView.baml
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\TraceView.baml
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.g.resources
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.Properties.Resources.resources
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.GenerateResource.cache
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.CopyComplete
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.exe
+C:\Users\Oumaima\Desktop\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.pdb
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\APPLICATION.exe.config
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\APPLICATION.exe
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\APPLICATION.pdb
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Haley.Abstractions.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Haley.Extensions.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Haley.Helpers.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Haley.IOC.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Haley.MVVM.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Haley.WPF.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\protobuf-net.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\protobuf-net.Core.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Buffers.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.CodeDom.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Drawing.Common.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Memory.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Text.Json.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.ValueTuple.dll
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Styles\ThemeDark.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Styles\ThemeLight.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Components\Layout.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBar.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBare.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AccueilView.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AideView.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AjouterFonctionView.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AproposView.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\DictionnaireView.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\LitteraleView.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\NumeriqueView.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\ParametreView.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\SyntheseView.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\TraceNumeriqueView.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\TraceView.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\App.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION_MarkupCompile.cache
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION_MarkupCompile.lref
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\App.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Components\Layout.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBar.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBare.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\MainWindow.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AccueilView.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AideView.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AjouterFonctionView.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AproposView.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\DictionnaireView.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\LitteraleView.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\NumeriqueView.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\ParametreView.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\SyntheseView.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\TraceNumeriqueView.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\TraceView.baml
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.g.resources
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.Properties.Resources.resources
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.CopyComplete
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.exe
+C:\Users\Asus\Documents\2CP\S2\PRJT\Codes\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.pdb
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\APPLICATION.exe.config
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\APPLICATION.exe
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\APPLICATION.pdb
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Haley.Abstractions.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Haley.Extensions.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Haley.Helpers.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Haley.IOC.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Haley.MVVM.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Haley.WPF.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\protobuf-net.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\protobuf-net.Core.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Buffers.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.CodeDom.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Drawing.Common.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Memory.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Text.Json.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\bin\Debug\System.ValueTuple.dll
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.AssemblyReference.cache
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Styles\ThemeDark.baml
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Styles\ThemeLight.baml
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Components\Layout.g.cs
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBar.g.cs
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBare.g.cs
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\MainWindow.g.cs
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AccueilView.g.cs
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AideView.g.cs
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AjouterFonctionView.g.cs
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AproposView.g.cs
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\DictionnaireView.g.cs
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\LitteraleView.g.cs
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\NumeriqueView.g.cs
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\ParametreView.g.cs
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\SyntheseView.g.cs
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\TraceNumeriqueView.g.cs
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\TraceView.g.cs
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\App.g.cs
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION_MarkupCompile.cache
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION_MarkupCompile.lref
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\App.baml
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Components\Layout.baml
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBar.baml
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBare.baml
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\MainWindow.baml
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AccueilView.baml
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AideView.baml
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AjouterFonctionView.baml
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\AproposView.baml
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\DictionnaireView.baml
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\LitteraleView.baml
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\NumeriqueView.baml
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\ParametreView.baml
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\SyntheseView.baml
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\TraceNumeriqueView.baml
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\Views\TraceView.baml
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.g.resources
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.Properties.Resources.resources
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.GenerateResource.cache
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.CopyComplete
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.exe
+C:\Users\Oumaima\Desktop\Fatma BackEnd\MODE NUIT CHECK\APPLICATION\APPLICATION\obj\Debug\APPLICATION.pdb
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\APPLICATION.exe.config
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\APPLICATION.exe
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\APPLICATION.pdb
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\FontAwesome.WPF.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\Haley.Abstractions.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\Haley.Extensions.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\Haley.Helpers.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\Haley.IOC.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\Haley.MVVM.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\Haley.WPF.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\protobuf-net.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\protobuf-net.Core.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\System.Buffers.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\System.CodeDom.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\System.Collections.Immutable.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\System.Drawing.Common.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\System.Memory.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\System.Security.AccessControl.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\System.Text.Json.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\System.ValueTuple.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.AssemblyReference.cache
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Styles\ThemeDark.baml
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Styles\ThemeLight.baml
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Components\Layout.g.cs
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBar.g.cs
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBare.g.cs
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\MainWindow.g.cs
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\AccueilView.g.cs
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\AideView.g.cs
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\AjouterFonctionView.g.cs
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\AproposView.g.cs
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\DictionnaireView.g.cs
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\LitteraleView.g.cs
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\NumeriqueView.g.cs
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\ParametreView.g.cs
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\SyntheseView.g.cs
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\TraceNumeriqueView.g.cs
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\TraceView.g.cs
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\App.g.cs
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\APPLICATION_MarkupCompile.cache
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\APPLICATION_MarkupCompile.lref
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\App.baml
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Components\Layout.baml
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBar.baml
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBare.baml
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\MainWindow.baml
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\AccueilView.baml
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\AideView.baml
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\AjouterFonctionView.baml
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\AproposView.baml
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\DictionnaireView.baml
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\LitteraleView.baml
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\NumeriqueView.baml
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\ParametreView.baml
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\SyntheseView.baml
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\TraceNumeriqueView.baml
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\TraceView.baml
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\APPLICATION.g.resources
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\APPLICATION.Properties.Resources.resources
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.GenerateResource.cache
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.CopyComplete
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\APPLICATION.exe
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\APPLICATION.pdb
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\APPLICATION_Content.g.cs
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\Fizzler.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\Fizzler.pdb
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\Svg.dll
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\APPLICATION.exe.config
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\DrawingView.g.cs
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\DrawingView.baml
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\InputView.g.cs
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\InputView.baml
+C:\Users\asus\Documents\APPLICATION\APPLICATION\bin\Debug\draw.py
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\DrawingLitView.g.cs
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\InputLitView.g.cs
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\DrawingLitView.baml
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Views\InputLitView.baml
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Components\StepEntryControl.g.cs
+C:\Users\asus\Documents\APPLICATION\APPLICATION\obj\Debug\Components\StepEntryControl.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\draw.py
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\APPLICATION.exe.config
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\APPLICATION.exe
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\APPLICATION.pdb
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\Fizzler.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\Fizzler.pdb
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\FontAwesome.WPF.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\Haley.Abstractions.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\Haley.Extensions.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\Haley.Helpers.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\Haley.IOC.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\Haley.MVVM.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\Haley.WPF.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\protobuf-net.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\protobuf-net.Core.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\Svg.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\System.Buffers.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\System.CodeDom.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\System.Collections.Immutable.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\System.Drawing.Common.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\System.Memory.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\System.Security.AccessControl.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\System.Text.Json.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\bin\Debug\System.ValueTuple.dll
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\APPLICATION.exe.config
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Styles\ThemeDark.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Styles\ThemeLight.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Components\Layout.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBar.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBare.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Components\StepEntryControl.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\MainWindow.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\AccueilView.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\AideView.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\AjouterFonctionView.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\AproposView.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\DictionnaireView.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\DrawingLitView.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\DrawingView.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\InputLitView.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\InputView.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\LitteraleView.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\NumeriqueView.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\ParametreView.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\SyntheseView.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\TraceNumeriqueView.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\TraceView.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\App.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\APPLICATION_Content.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\APPLICATION_MarkupCompile.cache
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\APPLICATION_MarkupCompile.lref
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\App.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Components\Layout.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBar.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBare.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Components\StepEntryControl.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\MainWindow.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\AccueilView.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\AideView.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\AjouterFonctionView.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\AproposView.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\DictionnaireView.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\DrawingLitView.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\DrawingView.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\InputLitView.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\InputView.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\LitteraleView.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\NumeriqueView.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\ParametreView.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\SyntheseView.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\TraceNumeriqueView.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\TraceView.baml
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\APPLICATION.g.resources
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\APPLICATION.Properties.Resources.resources
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.CopyComplete
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\APPLICATION.exe
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\APPLICATION.pdb
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Views\TraceLitView.g.cs
+C:\Users\asus\Desktop\tppoo\APPLICATION\APPLICATION\obj\Debug\Components\StepsEntryControl.g.cs
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.AssemblyReference.cache
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Styles\ThemeDark.baml
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Styles\ThemeLight.baml
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Components\Layout.g.cs
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBar.g.cs
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBare.g.cs
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Components\StepEntryControl.g.cs
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\MainWindow.g.cs
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\AccueilView.g.cs
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\AideView.g.cs
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\AjouterFonctionView.g.cs
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\AproposView.g.cs
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\DictionnaireView.g.cs
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\DrawingLitView.g.cs
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\DrawingView.g.cs
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\InputLitView.g.cs
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\InputView.g.cs
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\LitteraleView.g.cs
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\NumeriqueView.g.cs
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\ParametreView.g.cs
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\SyntheseView.g.cs
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\TraceNumeriqueView.g.cs
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\TraceView.g.cs
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\App.g.cs
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\App.baml
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Components\Layout.baml
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBar.baml
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Components\NavigationBare.baml
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Components\StepEntryControl.baml
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\MainWindow.baml
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\AccueilView.baml
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\AideView.baml
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\AjouterFonctionView.baml
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\AproposView.baml
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\DictionnaireView.baml
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\DrawingLitView.baml
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\DrawingView.baml
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\InputLitView.baml
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\InputView.baml
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\LitteraleView.baml
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\NumeriqueView.baml
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\ParametreView.baml
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\SyntheseView.baml
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\TraceNumeriqueView.baml
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\Views\TraceView.baml
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\APPLICATION.Properties.Resources.resources
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.GenerateResource.cache
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.Fody.CopyLocal.cache
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\APPLICATION.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\bin\Debug\ADALES.exe.config
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\bin\Debug\ADALES.exe
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\bin\Debug\ADALES.pdb
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\ADALES.exe.config
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\ADALES_MarkupCompile.cache
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\ADALES_MarkupCompile.lref
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\ADALES.g.resources
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\ADALES.exe
+C:\Users\moham\Downloads\APPLICATION\APPLICATION\obj\Debug\ADALES.pdb
+C:\Users\asus\3D Objects\APPLICATION\bin\Debug\ADALES.exe.config
+C:\Users\asus\3D Objects\APPLICATION\bin\Debug\ADALES.exe
+C:\Users\asus\3D Objects\APPLICATION\bin\Debug\ADALES.pdb
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\APPLICATION.csproj.AssemblyReference.cache
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\APPLICATION.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\ADALES.exe.config
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Styles\ThemeDark.baml
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Styles\ThemeLight.baml
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Components\Layout.g.cs
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Components\NavigationBar.g.cs
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Components\NavigationBare.g.cs
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Components\StepEntryControl.g.cs
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\MainWindow.g.cs
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\AccueilView.g.cs
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\AideView.g.cs
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\AjouterFonctionView.g.cs
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\AproposView.g.cs
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\DictionnaireView.g.cs
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\DrawingLitView.g.cs
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\DrawingView.g.cs
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\InputLitView.g.cs
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\InputView.g.cs
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\LitteraleView.g.cs
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\NumeriqueView.g.cs
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\ParametreView.g.cs
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\SyntheseView.g.cs
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\TraceNumeriqueView.g.cs
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\TraceView.g.cs
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\App.g.cs
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\ADALES_MarkupCompile.cache
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\ADALES_MarkupCompile.lref
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\App.baml
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Components\Layout.baml
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Components\NavigationBar.baml
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Components\NavigationBare.baml
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Components\StepEntryControl.baml
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\MainWindow.baml
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\AccueilView.baml
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\AideView.baml
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\AjouterFonctionView.baml
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\AproposView.baml
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\DictionnaireView.baml
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\DrawingLitView.baml
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\DrawingView.baml
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\InputLitView.baml
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\InputView.baml
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\LitteraleView.baml
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\NumeriqueView.baml
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\ParametreView.baml
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\SyntheseView.baml
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\TraceNumeriqueView.baml
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\Views\TraceView.baml
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\ADALES.g.resources
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\APPLICATION.Properties.Resources.resources
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\APPLICATION.csproj.GenerateResource.cache
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\APPLICATION.csproj.Fody.CopyLocal.cache
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\APPLICATION.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\ADALES.exe
+C:\Users\asus\3D Objects\APPLICATION\obj\Debug\ADALES.pdb

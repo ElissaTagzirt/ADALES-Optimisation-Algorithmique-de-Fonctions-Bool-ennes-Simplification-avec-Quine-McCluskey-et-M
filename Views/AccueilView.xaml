@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="APPLICATION.Views.AccueilView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:APPLICATION.Views"
+             xmlns:components="clr-namespace:APPLICATION.Components"
+             xmlns:fa ="http://schemas.fontawesome.io/icons/"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="1000">
+
+
+    <Grid>
+        <Grid.Background >
+            <ImageBrush ImageSource="{DynamicResource Backgroung}" />
+        </Grid.Background>
+
+        <StackPanel 
+            VerticalAlignment="Center" 
+            Height="280"
+            >
+            <TextBlock HorizontalAlignment="Center" FontSize="100" Text="ADALES" FontFamily="{StaticResource Azonix}" Foreground="{DynamicResource AdalesBrush}" >
+                <TextBlock.Effect>
+                    <DropShadowEffect Color="{DynamicResource shadow}"/>
+                </TextBlock.Effect>
+            </TextBlock>
+            <TextBlock HorizontalAlignment="Center" FontSize="20" Text="ADA Logical Expression Simplificator" Foreground="{DynamicResource lesBrush}"/>
+            <TextBlock HorizontalAlignment="Center" FontSize="14" Text="Optimisation des expressions logiques avec des methodes algorithmiques " FontFamily="{StaticResource Comfortaa-Regular }" Foreground="{StaticResource optimisationBrush}"/>
+
+        </StackPanel>
+
+    </Grid>
+</UserControl>

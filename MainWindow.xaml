@@ -1,0 +1,73 @@
+﻿<Window x:Class="APPLICATION.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+         xmlns:local="clr-namespace:APPLICATION"
+         xmlns:properties ="clr-namespace:APPLICATION.Properties"
+        xmlns:views="clr-namespace:APPLICATION.Views"
+        xmlns:viewmodels="clr-namespace:APPLICATION.ViewModels" 
+        xmlns:components="clr-namespace:APPLICATION.Components" 
+        xmlns:converters="clr-namespace:APPLICATION.Converters"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        FontFamily="{StaticResource pt-serif.regular}"
+        Title="ADALES-Application"  MinHeight="600" MinWidth="1000" >
+
+
+    <Grid Background="{StaticResource BackgroundBrush}" >
+
+        <ContentControl Content="{Binding CurrentViewModel}">
+
+            <ContentControl.Resources>
+                <DataTemplate DataType="{x:Type viewmodels:LayoutViewModel}">
+                    <components:Layout/>
+                </DataTemplate>
+                <DataTemplate DataType="{x:Type viewmodels:AccueilViewModel }">
+                    <views:AccueilView/>
+                </DataTemplate>
+                <DataTemplate DataType="{x:Type viewmodels:AjouterFonctionViewModel}">
+                    <views:AjouterFonctionView/>
+                </DataTemplate>
+                <DataTemplate DataType="{x:Type viewmodels:SyntheseViewModel}">
+                    <views:SyntheseView/>
+                </DataTemplate>
+                <DataTemplate DataType="{x:Type viewmodels:DictionnaireViewModel}">
+                    <views:DictionnaireView/>
+                </DataTemplate>
+                <DataTemplate DataType="{x:Type viewmodels:LitteraleViewModel}">
+                    <views:LitteraleView/>
+                </DataTemplate>
+                <DataTemplate DataType="{x:Type viewmodels:NumeriqueViewModel}">
+                    <views:NumeriqueView/>
+                </DataTemplate>
+                <DataTemplate DataType="{x:Type viewmodels:AideViewModel}">
+                    <views:AideView/>
+                </DataTemplate>
+                <DataTemplate DataType="{x:Type viewmodels:TraceViewModel}">
+                    <views:TraceView/>
+                </DataTemplate>
+                <DataTemplate DataType="{x:Type viewmodels:TraceNumeriqueViewModel}">
+                    <views:TraceNumeriqueView/>
+                </DataTemplate>
+                <DataTemplate DataType="{x:Type viewmodels:ParametreViewModel}">
+                    <views:ParametreView/>
+                </DataTemplate>
+                <DataTemplate DataType="{x:Type viewmodels:AproposViewModel}">
+                    <views:AproposView/>
+                </DataTemplate>
+
+
+
+            </ContentControl.Resources>
+
+        </ContentControl>
+
+
+    </Grid>
+
+
+
+
+
+</Window>

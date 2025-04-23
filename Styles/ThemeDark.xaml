@@ -1,0 +1,601 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Color x:Key="BackgroundButton">#FFDDDDDD</Color>
+    <Color x:Key="Dark" >#383838</Color>
+    <Color x:Key="shadow">#0B162C</Color>
+
+
+    <SolidColorBrush x:Key="BackgroundBrush" Color="#060f16"/>
+    <SolidColorBrush x:Key="BackgroundButtonBrush" Color="{StaticResource Dark}"/>
+    <SolidColorBrush x:Key="ErrorBrush" Color="Red"/>
+
+
+    <Color x:Key="Bleue">#1C2942</Color>
+    <SolidColorBrush x:Key="BleueBrush" Color="{StaticResource Bleue}"/>
+    <SolidColorBrush x:Key="BareBrush" Color="#FFA2AEB9"/>
+    <SolidColorBrush x:Key="TextBrush" Color="White"/>
+    <SolidColorBrush x:Key="IconBrush" Color="White"/>
+    <SolidColorBrush x:Key="AdalesBrush" Color="White"/>
+    <SolidColorBrush x:Key="lesBrush" Color="#FF5FC2BA"/>
+    <SolidColorBrush x:Key="optimisationBrush" Color="LightGray"/>
+    <SolidColorBrush x:Key="BackgroungBrush" Color="#383838"/>
+    <SolidColorBrush x:Key="ButtonBrush" Color="#D4D3DC"/>
+
+
+
+    <ImageSource x:Key="Backgroung" >
+        /Views/Background/background5.png
+    </ImageSource>
+    <ImageSource x:Key="BackgroungNum" >
+        /Views/Background/Noire.png
+    </ImageSource>
+    <ImageSource x:Key="retour" >
+        /Images/Icons/retourBlanc.png
+    </ImageSource>
+    <ImageSource x:Key="copy" >
+        /Images/Icons/copyblanc.png
+    </ImageSource>
+    <ImageSource x:Key="actualiser" >
+        /Images/Icons/actualiserblanc.png
+    </ImageSource>
+    <ImageSource x:Key="optimiser" >
+        /Images/Icons/optimization.png
+    </ImageSource>
+    <ImageSource x:Key="synthese" >
+        /Images/Icons/logicblanc.png
+    </ImageSource>
+    <ImageSource x:Key="trace" >
+        /Images/Icons/timelineblanc.png
+    </ImageSource>
+
+
+
+
+
+
+    <Color x:Key="Vert">#5FC2BA</Color>
+    <SolidColorBrush x:Key="VertBrush" Color="{StaticResource Vert}"/>
+
+    <Color x:Key="VertBleue">#FFDDDDDD</Color>
+    <SolidColorBrush x:Key="VertBleueBrush" Color="{StaticResource VertBleue}"/>
+
+    <Color x:Key="Jaune">#FFB116</Color>
+    <SolidColorBrush x:Key="JauneBrush" Color="{StaticResource Jaune}"/>
+
+    <Color x:Key="BleueNuit">#0B162C</Color>
+    <SolidColorBrush x:Key="BleueNuitBrush" Color="{StaticResource BleueNuit}"/>
+
+    <Color x:Key="Gris">#3B556D</Color>
+    <SolidColorBrush x:Key="GrisBrush" Color="{StaticResource Gris}"/>
+
+    <Color x:Key="Blanc">#FFFFFF</Color>
+    <SolidColorBrush x:Key="BlancBrush" Color="#FFFFFF"/>
+
+    <Color x:Key="BorderButtonColor">#FF707070</Color>
+
+
+
+    <SolidColorBrush x:Key="BorderButtonColorBrush" Color="{StaticResource BorderButtonColor}"/>
+
+
+    <LinearGradientBrush x:Key="Degrade" EndPoint="0.5,1" StartPoint="0.5,0">
+        <GradientStop Color="#FF5FC2BA" />
+        <GradientStop Color="#FF0B162C" Offset="1"/>
+        <GradientStop Color="#FF93D6D0" Offset="0"/>
+        <GradientStop Color="#FF3B556D" Offset="0.359"/>
+        <GradientStop Color="#FFA3AFBA" Offset="0"/>
+        <GradientStop Color="#FFA2AEB9" Offset="0"/>
+        <GradientStop Color="#FFA2AEB9" Offset="0"/>
+        <GradientStop Color="#FF5FC2BA" Offset="0"/>
+        <GradientStop Color="#FF1C2942" Offset="0.687"/>
+    </LinearGradientBrush>
+
+
+    <FontFamily x:Key="Azonix">pack://application;,,,/Fonts/#Azonix Regular</FontFamily>
+    <FontFamily x:Key="pt-serif.bold">pack://application;,,,/Fonts/#PT Serif Bold</FontFamily>
+    <FontFamily x:Key="pt-serif.bold.italic">pack://application;,,,/Fonts/#PT Serif Bold Italic</FontFamily>
+    <FontFamily x:Key="pt-serif.caption">pack://application;,,,/Fonts/#PT Serif Caption</FontFamily>
+    <FontFamily x:Key="pt-serif.caption.italic">pack://application;,,,/Fonts/#PT Serif Caption Italic</FontFamily>
+    <FontFamily x:Key="pt-serif.regular">pack://application;,,,/Fonts/#PT Serif</FontFamily>
+    <FontFamily x:Key="pt-serif.italic">pack://application;,,,/Fonts/#PT Serif Italic</FontFamily>
+    <FontFamily x:Key="Comfortaa-bold">pack://application;,,,/Fonts/#Comfortaa Bold</FontFamily>
+    <FontFamily x:Key="Comfortaa-light">pack://application;,,,/Fonts/#Comfortaa Light</FontFamily>
+    <FontFamily x:Key="Comfortaa-Regular">pack://application;,,,/Fonts/#Comfortaa Regular</FontFamily>
+
+    <Style x:Key="FocusVisual">
+        <Setter Property="Control.Template">
+            <Setter.Value>
+                <ControlTemplate>
+                    <Rectangle Margin="2" StrokeDashArray="1 2" Stroke="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}" SnapsToDevicePixels="true" StrokeThickness="1"/>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style TargetType="{x:Type RadioButton}" x:Key="RoundedButton">
+
+        <Setter Property="Background" Value="{StaticResource BackgroundBrush}" />
+        <Setter Property="Foreground" Value="Black"/>
+        <Setter Property="FocusVisualStyle" Value="{StaticResource FocusVisual}"/>
+        <Setter Property="BorderBrush" Value="{StaticResource BorderButtonColorBrush}"/>
+        <Setter Property="FontFamily" Value="{StaticResource Comfortaa-Regular}"/>
+        <Setter Property="Cursor" Value="Hand"/>
+        <Setter Property="Template">
+
+            <Setter.Value>
+
+                <ControlTemplate TargetType="{x:Type RadioButton}">
+
+                    <Border CornerRadius="20" Background="{TemplateBinding Background}" BorderThickness="0">
+
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center">
+
+                        </ContentPresenter>
+
+
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" 
+                          Value="True">
+                            <Setter Property="Background" 
+                           Value="{StaticResource JauneBrush}"/>
+                            <Setter Property="Foreground"
+                                   Value="{StaticResource BlancBrush}"/>
+
+                        </Trigger>
+
+                        <Trigger Property="IsPressed" 
+                          Value="True">
+                            <Setter Property="Background" 
+                           Value="#F1CA68"/>
+                        </Trigger>
+                        <Trigger Property="IsEnabled"
+                                 Value="False">
+                            <Setter Property="Background"
+                                    Value="{StaticResource GrisBrush}"/>
+
+                        </Trigger>
+                        <Trigger Property="IsChecked"
+                                 Value="True">
+                            <Setter Property="Background"
+                                    Value="{StaticResource Degrade}"/>
+                            <Setter Property="Foreground"
+                                    Value="{StaticResource BlancBrush}"/>
+
+                        </Trigger>
+
+                        <EventTrigger RoutedEvent="MouseEnter">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <!--  <ColorAnimation Storyboard.TargetProperty="(Button.Background).(SolidColorBrush.Color)" To="{StaticResource Vert}"/>
+                                    <ColorAnimation Storyboard.TargetProperty="(Button.Foreground).(SolidColorBrush.Color)" To="{StaticResource Blanc}"/>-->
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+
+                    </ControlTemplate.Triggers>
+
+
+                </ControlTemplate>
+
+
+            </Setter.Value>
+
+
+        </Setter>
+
+
+
+
+    </Style>
+  
+    <Style TargetType="TextBox" x:Key="Textbox1">
+        <Setter Property="Padding" Value="7"/>
+        <Setter Property="Margin" Value="5"/>
+        <Setter Property="Foreground" Value="#fa036f"/>
+        <Setter Property="FontSize" Value="20"/>
+        <Setter Property="MinHeight" Value="20"/>
+        <Setter Property="MinWidth" Value="250"/>
+        <Setter Property="FontWeight" Value="Bold" />
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type TextBox}">
+                    <Border x:Name="border"
+CornerRadius="10"
+BorderBrush="#000"
+BorderThickness="2"
+Background="#fff"
+>
+                        <ScrollViewer x:Name="PART_ContentHost"
+Focusable="false"
+HorizontalScrollBarVisibility="Hidden"
+VerticalScrollBarVisibility="Hidden"/>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="true">
+                            <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource JauneBrush}"/>
+                            <Setter Property="Foreground" Value="Black" />
+
+                        </Trigger>
+                        <Trigger Property="IsFocused" Value="true">
+                            <Setter Property="Foreground" Value="Black" />
+                            <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource BleueBrush}"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+   
+    <Style TargetType="Button" x:Key="Bouton">
+        <Setter Property="Background" Value="Transparent"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="FontSize" Value="30"/>
+        <Setter Property="BorderBrush" Value="{StaticResource JauneBrush}"/>
+        <Setter Property="FontFamily" Value="{StaticResource Comfortaa-Regular}"/>
+        <Setter Property="Cursor" Value="Hand"/>
+
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+
+                    <Border CornerRadius="10" Background="{TemplateBinding Background}" BorderThickness="0">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+
+                    <ControlTemplate.Triggers>
+
+
+                        <Trigger Property="IsMouseOver"
+                                 Value="True">
+                            <Setter Property="Background"
+                                         Value="{StaticResource JauneBrush}"/>
+                        </Trigger>
+                        <Trigger Property="IsPressed" 
+                          Value="True">
+                            <Setter Property="Background" 
+                           Value="#F1CA68"/>
+                        </Trigger>
+                        <!--Le boutton quand il est enabled-->
+
+
+
+
+                        <EventTrigger RoutedEvent="MouseEnter">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <!--  <ColorAnimation Storyboard.TargetProperty="(Button.Background).(SolidColorBrush.Color)" To="{StaticResource Vert}"/>
+                                    <ColorAnimation Storyboard.TargetProperty="(Button.Foreground).(SolidColorBrush.Color)" To="{StaticResource Blanc}"/>-->
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+
+                    </ControlTemplate.Triggers>
+
+
+                </ControlTemplate>
+
+
+            </Setter.Value>
+
+
+        </Setter>
+
+
+
+    </Style>
+   
+
+    <Style TargetType="{x:Type Button}" x:Key="Button">
+
+        <Setter Property="Background" Value="{StaticResource JauneBrush }" />
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="FocusVisualStyle" Value="{StaticResource FocusVisual}"/>
+        <Setter Property="BorderBrush" Value="{StaticResource BorderButtonColorBrush}"/>
+        <Setter Property="FontFamily" Value="{StaticResource Comfortaa-Regular}"/>
+        <Setter Property="Cursor" Value="Hand"/>
+        <Setter Property="Template">
+
+            <Setter.Value>
+
+                <ControlTemplate TargetType="{x:Type Button}">
+
+                    <Border CornerRadius="20" Background="{TemplateBinding Background}" BorderThickness="0">
+
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center">
+
+                        </ContentPresenter>
+
+
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" 
+                          Value="True">
+                            <Setter Property="Background" 
+                           Value="{StaticResource JauneBrush}"/>
+                            <Setter Property="Foreground"
+                                   Value="{StaticResource BlancBrush}"/>
+
+                        </Trigger>
+
+                        <Trigger Property="IsPressed" 
+                          Value="True">
+                            <Setter Property="Background" 
+                           Value="#F1CA68"/>
+                        </Trigger>
+                        <Trigger Property="IsEnabled"
+                                 Value="False">
+                            <Setter Property="Background"
+                                    Value="#F1CA68"/>
+
+                        </Trigger>
+                        <Trigger Property="IsCancel"
+                                 Value="True">
+                            <Setter Property="Background"
+                                    Value="{StaticResource Degrade}"/>
+                            <Setter Property="Foreground"
+                                    Value="{StaticResource BlancBrush}"/>
+
+                        </Trigger>
+
+                        <EventTrigger RoutedEvent="MouseEnter">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <!--  <ColorAnimation Storyboard.TargetProperty="(Button.Background).(SolidColorBrush.Color)" To="{StaticResource Vert}"/>
+                                    <ColorAnimation Storyboard.TargetProperty="(Button.Foreground).(SolidColorBrush.Color)" To="{StaticResource Blanc}"/>-->
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+
+                    </ControlTemplate.Triggers>
+
+
+                </ControlTemplate>
+
+
+            </Setter.Value>
+
+
+        </Setter>
+
+
+
+
+    </Style>
+    <Style TargetType="{x:Type Button}" x:Key="CopyButton">
+
+        <Setter Property="Background" Value="{StaticResource ButtonBrush}" />
+        <Setter Property="Foreground" Value="Black"/>
+        <Setter Property="FocusVisualStyle" Value="{StaticResource FocusVisual}"/>
+        <Setter Property="BorderBrush" Value="{StaticResource BorderButtonColorBrush}"/>
+        <Setter Property="FontFamily" Value="{StaticResource pt-serif.regular}"/>
+        <Setter Property="Cursor" Value="Hand"/>
+        <Setter Property="Template">
+
+            <Setter.Value>
+
+                <ControlTemplate TargetType="{x:Type Button}">
+
+                    <Border  Background="{TemplateBinding Background}" BorderThickness="0">
+
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center">
+
+                        </ContentPresenter>
+
+
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" 
+                          Value="True">
+                            <Setter Property="Background" 
+                           Value="{StaticResource JauneBrush}"/>
+                            <Setter Property="Foreground"
+                                   Value="{StaticResource BlancBrush}"/>
+
+                        </Trigger>
+
+                        <Trigger Property="IsPressed" 
+                          Value="True">
+                            <Setter Property="Background" 
+                           Value="#F1CA68"/>
+                        </Trigger>
+                        <Trigger Property="IsEnabled"
+                                 Value="False">
+                            <Setter Property="Background"
+                                    Value="{StaticResource BackgroundBrush}"/>
+
+                        </Trigger>
+                        <Trigger Property="IsCancel"
+                                 Value="True">
+                            <Setter Property="Background"
+                                    Value="{StaticResource Degrade}"/>
+                            <Setter Property="Foreground"
+                                    Value="{StaticResource BlancBrush}"/>
+
+                        </Trigger>
+
+                        <EventTrigger RoutedEvent="MouseEnter">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <!--  <ColorAnimation Storyboard.TargetProperty="(Button.Background).(SolidColorBrush.Color)" To="{StaticResource Vert}"/>
+                                    <ColorAnimation Storyboard.TargetProperty="(Button.Foreground).(SolidColorBrush.Color)" To="{StaticResource Blanc}"/>-->
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+
+                    </ControlTemplate.Triggers>
+
+
+                </ControlTemplate>
+
+
+            </Setter.Value>
+
+
+        </Setter>
+
+
+
+
+    </Style>
+
+
+    <Style TargetType="{x:Type Button}" x:Key="Calculator1Button">
+
+        <Setter Property="Background" Value="{StaticResource ButtonBrush }" />
+        <Setter Property="Foreground" Value="Black"/>
+        <Setter Property="FocusVisualStyle" Value="{StaticResource FocusVisual}"/>
+        <Setter Property="BorderBrush" Value="{StaticResource BorderButtonColorBrush}"/>
+        <Setter Property="FontFamily" Value="{StaticResource Comfortaa-Regular}"/>
+        <Setter Property="Cursor" Value="Hand"/>
+        <Setter Property="Template">
+
+            <Setter.Value>
+
+                <ControlTemplate TargetType="{x:Type Button}">
+
+                    <Border Background="{TemplateBinding Background}" BorderThickness="0">
+
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center">
+
+                        </ContentPresenter>
+
+
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" 
+                          Value="True">
+                            <Setter Property="Background" 
+                            Value="{StaticResource JauneBrush}"/>
+                            <Setter Property="Foreground"
+                                   Value="{StaticResource BlancBrush}" />
+
+                        </Trigger>
+
+                        <Trigger Property="IsPressed" 
+                          Value="True">
+                            <Setter Property="Background" 
+                            Value="{StaticResource JauneBrush}"/>
+                        </Trigger>
+                        <Trigger Property="IsEnabled"
+                                 Value="False">
+                            <Setter Property="Background"
+                                    Value="{StaticResource BackgroundBrush}"/>
+
+                        </Trigger>
+                        <Trigger Property="IsCancel"
+                                 Value="True">
+                            <Setter Property="Background"
+                                    Value="{StaticResource Degrade}"/>
+                            <Setter Property="Foreground"
+                                    Value="{StaticResource BlancBrush}"/>
+
+                        </Trigger>
+
+                        <EventTrigger RoutedEvent="MouseEnter">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <!--  <ColorAnimation Storyboard.TargetProperty="(Button.Background).(SolidColorBrush.Color)" To="{StaticResource Vert}"/>
+                                    <ColorAnimation Storyboard.TargetProperty="(Button.Foreground).(SolidColorBrush.Color)" To="{StaticResource Blanc}"/>-->
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+
+                    </ControlTemplate.Triggers>
+
+
+                </ControlTemplate>
+
+
+            </Setter.Value>
+
+
+        </Setter>
+
+
+
+
+    </Style>
+
+
+
+
+    <Style TargetType="{x:Type Button}" x:Key="Calculator2Button">
+
+        <Setter Property="Background" Value="{StaticResource VertBrush }" />
+        <Setter Property="Foreground" Value="Black"/>
+        <Setter Property="FocusVisualStyle" Value="{StaticResource FocusVisual}"/>
+        <Setter Property="BorderBrush" Value="{StaticResource BorderButtonColorBrush}"/>
+        <Setter Property="FontFamily" Value="{StaticResource Comfortaa-Regular}"/>
+        <Setter Property="Cursor" Value="Hand"/>
+        <Setter Property="Template">
+
+            <Setter.Value>
+
+                <ControlTemplate TargetType="{x:Type Button}">
+
+                    <Border  Background="{TemplateBinding Background}" BorderThickness="0">
+
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center">
+
+                        </ContentPresenter>
+
+
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" 
+                          Value="True">
+                            <Setter Property="Background" 
+                           Value="{StaticResource JauneBrush}"/>
+                            <Setter Property="Foreground"
+                                   Value="{StaticResource BlancBrush}"/>
+
+                        </Trigger>
+
+                        <Trigger Property="IsPressed" 
+                          Value="True">
+                            <Setter Property="Background" 
+                            Value="{StaticResource JauneBrush}"/>
+                        </Trigger>
+                        <Trigger Property="IsEnabled"
+                                 Value="False">
+                            <Setter Property="Background"
+                                    Value="{StaticResource BackgroundBrush}"/>
+
+                        </Trigger>
+                        <Trigger Property="IsCancel"
+                                 Value="True">
+                            <Setter Property="Background"
+                                    Value="{StaticResource Degrade}"/>
+                            <Setter Property="Foreground"
+                                    Value="{StaticResource BlancBrush}"/>
+
+                        </Trigger>
+
+                        <EventTrigger RoutedEvent="MouseEnter">
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <!--  <ColorAnimation Storyboard.TargetProperty="(Button.Background).(SolidColorBrush.Color)" To="{StaticResource Vert}"/>
+                                    <ColorAnimation Storyboard.TargetProperty="(Button.Foreground).(SolidColorBrush.Color)" To="{StaticResource Blanc}"/>-->
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+
+                    </ControlTemplate.Triggers>
+
+
+                </ControlTemplate>
+
+
+            </Setter.Value>
+
+
+        </Setter>
+
+
+
+
+    </Style>
+
+</ResourceDictionary>

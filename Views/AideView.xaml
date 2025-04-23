@@ -1,0 +1,62 @@
+﻿<UserControl x:Class="APPLICATION.Views.AideView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:APPLICATION.Views"
+             xmlns:components="clr-namespace:APPLICATION.Components"
+             xmlns:fa ="http://schemas.fontawesome.io/icons/"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <UserControl.Resources >
+        <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter" />
+    </UserControl.Resources>
+    <Grid Background="{DynamicResource BackgroundBrush}">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20" />
+            <ColumnDefinition Width="auto" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+
+
+        </Grid.RowDefinitions>
+        <Label Grid.Row="1" Grid.Column="1">
+            <StackPanel Orientation="Horizontal" Width="300">
+                <fa:ImageAwesome Foreground="{DynamicResource IconBrush}" Icon="QuestionCircle" Width="40"/>
+                <AccessText Foreground="{DynamicResource TextBrush}" FontSize="40" Margin="30,0,0,0" Text="Page d'aide" ></AccessText>
+
+            </StackPanel>
+        </Label>
+
+        <Label Grid.Row="2" Grid.Column="1" >
+
+            <StackPanel  Margin="20" Orientation="Horizontal" Width="600"  >
+                <AccessText Foreground="{DynamicResource TextBrush}" FontSize="25" Margin="90,0,0,0" Text="Comment pouvons-nous vous aidez ? "  ></AccessText>
+            </StackPanel>
+        </Label>
+
+        <ComboBox Margin="20" Width="600" Height="50" Grid.Row="3" Grid.Column="1" x:Name="Erreurs" FontSize="20" SelectionChanged="Erreurs_SelectionChanged" >
+            <ComboBoxItem x:Name="SyntaxeErreur" Content="Erreur de syntaxe"   />
+            <ComboBoxItem  x:Name="EntryErreur"  Content="Operande binaire"  />
+
+        </ComboBox>
+
+
+        <StackPanel Grid.Row="4" Grid.Column="1" Orientation="Horizontal" Margin="20"  Width="600" >
+            <TextBlock x:Name="SyntaxeT" TextWrapping="Wrap" FontSize="15" Text="Il faut respecter la syntaxe introduise dans le dictionnaire , Essayez d'utiliser les bouttons associés ." Foreground="{DynamicResource TextBrush}" Visibility="{Binding Visibility.Visibility}" Height="88" Width="597"   />
+            <TextBlock x:Name="EntryT"  TextWrapping="Wrap" FontSize="15" Text=" IL s'agit d'un opérateur binaire , introduisez le deuxième operande." Foreground="{DynamicResource TextBrush}" Visibility="{Binding Visibility.Visibility}" Height="88" Width="597"  />
+
+
+
+        </StackPanel>
+
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,73 @@
+﻿<UserControl x:Class="APPLICATION.Views.SyntheseView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:APPLICATION.Views" xmlns:components="clr-namespace:APPLICATION.Components"
+             mc:Ignorable="d" 
+              xmlns:fa ="http://schemas.fontawesome.io/icons/" xmlns:converters="clr-namespace:APPLICATION.Converters"
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <UserControl.Resources>
+        <converters:ImagePathConverter x:Key="ImagePathConverter"/>
+    </UserControl.Resources>
+
+    <Grid Background="{DynamicResource BackgroundBrush}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Label Grid.ColumnSpan="2">
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome  Foreground="{DynamicResource IconBrush}" Icon="Pencil" Width="40" Margin="7"/>
+                <AccessText Foreground="{DynamicResource TextBrush}" FontSize="40" Text="Synthese" ></AccessText>
+
+            </StackPanel>
+        </Label>
+        <TextBlock Grid.Row="0"
+                   Grid.Column="2"
+                   Grid.ColumnSpan="2"
+            TextWrapping="Wrap"
+                   Padding="4"
+                   Background="#eee">
+            <Run Text="Expression:"
+                 FontSize="12"
+                 Foreground="#6333"/>
+            <LineBreak/>
+            <Run Text="{Binding ExpressionSimplifier, Mode=OneWay}"
+                 FontSize="22"/>
+        </TextBlock>
+        <Image Source="{Binding DrawingPath, Converter={StaticResource ImagePathConverter}}"
+               Grid.Row="1"/>
+        <Button    
+                    Grid.Column="4" 
+                    Grid.Row="4"
+                    Height="60"
+                    Style="{DynamicResource Button}"
+                    FontSize="20"
+                    Command="{Binding NavigateNumeriqueCommand}">
+            <Button.ToolTip >
+                <TextBlock Text="Retour"/>
+            </Button.ToolTip>
+            <StackPanel
+                    Orientation="Horizontal" 
+                    VerticalAlignment="Center"
+                    Width="150"
+                    Margin="10">
+                <fa:ImageAwesome Icon="ArrowLeft" Width="20" />
+                <TextBlock Text="Retour" Margin="30,0,0,0" VerticalAlignment="Center"  FontSize="15"/>
+            </StackPanel>
+
+        </Button>
+    </Grid>
+</UserControl>

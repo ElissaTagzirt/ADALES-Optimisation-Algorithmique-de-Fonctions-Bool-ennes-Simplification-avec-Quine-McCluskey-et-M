@@ -1,0 +1,440 @@
+﻿<UserControl x:Class="APPLICATION.Views.InputLitView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:APPLICATION.Views"
+             xmlns:fa ="http://schemas.fontawesome.io/icons/"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="780">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="{DynamicResource BackgroungNum}" />
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="150"/>
+
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="100"/>
+
+
+        </Grid.ColumnDefinitions>
+
+
+        <StackPanel
+            Grid.Column="1"
+            Grid.Row="1"
+            Grid.RowSpan="3"
+            Margin="0,50,0,0">
+            <TextBlock Foreground="{DynamicResource TextBrush}" FontFamily="{DynamicResource Comfortaa-bold}"
+                       FontSize="25"
+                Text="Entrez votre expression :" />
+            <TextBox
+                 HorizontalAlignment="Left"
+               Style="{DynamicResource Textbox1}"
+                Width="570" 
+                Height="50" 
+                FontSize="17"
+                x:Name="TextDisplay" Text="{Binding Expression , ValidatesOnExceptions=True , UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}">
+                <!--<TextBox.ToolTip >
+                <TextBlock Text="{Binding ErrorCollection[Expression]}" />
+                </TextBox.ToolTip>-->
+
+            </TextBox>
+
+            <TextBlock Height="20" FontSize="12" Foreground="{DynamicResource ErrorBrush}" >
+                <TextBlock.Style>
+                    <Style TargetType="TextBlock">
+                        <Setter Property="Visibility" Value="Collapsed"/>
+
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding ElementName=TextDisplay,Path=(Validation.HasError)}"
+                                         Value="True">
+                                <Setter Property="Visibility" Value="Visible"/>
+                                <Setter Property="Text" Value="{Binding ElementName=TextDisplay,Path=(Validation.Errors)[0].ErrorContent}"/>
+                            </DataTrigger>
+
+                            <DataTrigger Binding="{Binding ElementName=TextDisplay,Path=Text}"
+                                         Value="{x:Null}">
+                                <Setter Property="Visibility" Value="Visible"/>
+                                <Setter Property="Text" Value="Expression vide"/>
+                            </DataTrigger>
+
+                            <DataTrigger Binding="{Binding ElementName=TextDisplay,Path=Text}"
+                                         Value="{x:Static sys:String.Empty}">
+                                <Setter Property="Visibility" Value="Visible"/>
+                                <Setter Property="Text" Value="Expression vide"/>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </TextBlock.Style>
+            </TextBlock>
+            <TextBox 
+                IsReadOnly="True"
+                HorizontalAlignment="Left"
+                Style="{DynamicResource Textbox1}"
+                Width="570" 
+                Height="120"  
+                x:Name="ResultatDisplay" 
+                TextWrapping="Wrap"
+                Text="{Binding ExpressionSimplifier, Mode=OneWay}" 
+                VerticalAlignment="Center"
+                FontSize="19">
+
+            </TextBox>
+            <StackPanel
+                HorizontalAlignment="Center"
+                Orientation="Horizontal"
+                Height="150"
+                
+                Margin="0,30,0,0">
+                <Grid Grid.RowSpan="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="220"/>
+                        <ColumnDefinition Width="160"/>
+                        <ColumnDefinition Width="220"/>
+                    </Grid.ColumnDefinitions>
+                    <Button
+                        Grid.Column="0"
+                    HorizontalAlignment="Left"
+                    Margin="10,50,0,0"
+                    x:Name="Trace"
+                    Height="100"
+                    Width="200"
+                Style="{DynamicResource Button}"
+                Command="{Binding TraceCommand}">
+                        <Button.ToolTip >
+                            <TextBlock Text="Voir la trace"/>
+                        </Button.ToolTip>
+
+                        <StackPanel 
+                    VerticalAlignment="Center"
+                    Width="90"
+                    Margin="10" >
+                            <Image Source="{DynamicResource trace}" Width="40" Height="40" />
+                            <TextBlock Text="Trace" VerticalAlignment="Center" HorizontalAlignment="Center"  FontSize="25"/>
+
+                        </StackPanel>
+
+                    </Button>
+                    <Button Grid.Column="2" 
+                     HorizontalAlignment="Right"
+                    Margin="0,50,10,0"
+                    x:Name="Synthese"
+                    Height="100"
+                    Width="200"
+                Style="{DynamicResource Button}"
+                Command="{Binding DrawLitCommand}"
+                FontSize="20" >
+                        <Button.ToolTip >
+                            <TextBlock Text="Voir la synthèse"/>
+                        </Button.ToolTip>
+                        <StackPanel 
+                    VerticalAlignment="Center"
+                    Width="150"
+                    Margin="10" >
+                            <Image Source="{DynamicResource synthese}" Width="60" Height="60" />
+                            <TextBlock Text="Synthèse" VerticalAlignment="Center" HorizontalAlignment="Center"  FontSize="25"/>
+                        </StackPanel>
+
+                    </Button>
+                    <StackPanel Grid.Column="1" Grid.Row="0">
+                        <Grid HorizontalAlignment="Center">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="52"/>
+                                <RowDefinition Height="52"/>
+                                <RowDefinition Height="50"/>
+                            </Grid.RowDefinitions>
+
+                            <Grid.ColumnDefinitions >
+                                <ColumnDefinition Width="52"/>
+                                <ColumnDefinition Width="52"/>
+                                <ColumnDefinition Width="50"/>
+
+                            </Grid.ColumnDefinitions>
+                            <StackPanel Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" Grid.RowSpan="3" >
+                                <Rectangle Fill="LightGray" Height="160" Width="160" Visibility="Visible"  >
+
+                                </Rectangle>
+                            </StackPanel>
+
+
+                            <StackPanel
+            Grid.Column="0"
+            Grid.Row="0"
+            
+            >
+
+                                <Button x:Name="ETButton" 
+                Height="50"
+                Width="50"
+                Margin="1 1 0 0"
+                FontSize="18"
+                BorderThickness="1"
+                    Style="{DynamicResource Calculator1Button}" Click="ETButton_Click" 
+                    
+                >
+                                    <Button.ToolTip >
+                                        <TextBlock Text="ET logique "/>
+                                    </Button.ToolTip>
+                                    ET
+
+                                </Button>
+
+
+                            </StackPanel>
+
+                            <StackPanel
+            Grid.Column="1"
+            Grid.Row="0"
+            >
+
+                                <Button x:Name="ParOButton" 
+                Height="50"
+                Width="50"
+                FontSize="18"
+                Margin="0 1 0 0"
+                BorderThickness="1"
+                Style="{DynamicResource Calculator1Button}" Click="ParOButton_Click"
+                >
+                                    <Button.ToolTip >
+                                        <TextBlock Text="("/>
+                                    </Button.ToolTip>
+                                    (
+                                </Button>
+
+
+                            </StackPanel>
+
+
+                            <StackPanel
+            Grid.Column="0"
+            Grid.Row="1"
+            >
+
+                                <Button x:Name="NONButton"
+                Height="50"
+                Width="50"
+                FontSize="18"
+                 Margin="1 0 0 0"
+                BorderThickness="1"
+                Style="{DynamicResource Calculator1Button}" Click="NONButton_Click"
+                >
+                                    <Button.ToolTip >
+                                        <TextBlock Text="NON logique /"/>
+                                    </Button.ToolTip>
+                                    NON
+                                </Button>
+
+
+                            </StackPanel>
+
+
+                            <StackPanel
+            Grid.Column="1"
+            Grid.Row="1"
+            >
+
+                                <Button x:Name="ParFButton"
+                Height="50"
+                Width="50"
+                Margin="0 0 0 0"
+                FontSize="18"
+                BorderThickness="1"
+                Style="{DynamicResource Calculator1Button}" Click="ParFButton_Click"
+                >
+                                    <Button.ToolTip >
+                                        <TextBlock Text=")"/>
+                                    </Button.ToolTip>
+                                    )
+                                </Button>
+
+
+                            </StackPanel>
+
+
+                            <StackPanel
+            Grid.Column="1"
+            Grid.Row="2"
+            >
+
+                                <Button x:Name="OUButton"
+                Height="50"
+                Width="50"
+                FontSize="18"
+                Margin="1 0 1 1"
+                BorderThickness="1"
+                Style="{DynamicResource Calculator1Button}" Click="OUButton_Click"
+                >
+                                    <Button.ToolTip >
+                                        <TextBlock Text="OU logique +"/>
+                                    </Button.ToolTip>
+                                    OU
+                                </Button>
+
+
+                            </StackPanel>
+
+
+
+                            <StackPanel
+            Grid.Column="2"
+            Grid.Row="0"
+            >
+
+                                <Button x:Name="CEButton"
+                Height="50"
+                Width="50"
+                FontSize="18"
+                Margin="0 1 1 0"
+                BorderThickness="1"
+                Style="{DynamicResource Calculator2Button}" Click="CEButton_Click"
+                >
+                                    CE
+                                </Button>
+
+
+                            </StackPanel>
+
+                            <StackPanel
+            Grid.Column="2"
+            Grid.Row="1"
+            >
+
+                                <Button x:Name="CButton"
+                Height="50"
+                Width="50"
+                FontSize="18"
+                Margin="0 0 1 1"
+                BorderThickness="1"
+                Style="{DynamicResource Calculator2Button}" Click="CButton_Click"
+                >
+                                    C
+                                </Button>
+
+
+                            </StackPanel>
+                        </Grid>
+                    </StackPanel>
+                   
+                       
+                    
+                </Grid>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Grid.Column="0"
+            Grid.Row="0"
+            Grid.RowSpan="4">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="110" />
+                    <RowDefinition Height="90"/>
+                    <RowDefinition Height="210"/>
+                </Grid.RowDefinitions>
+                <Button
+                  HorizontalAlignment="Left"
+                    Margin="10"
+                    x:Name="retour"
+                    Height="45"
+                    Width="45"
+                    Command="{Binding NavigateAjouterFonctionCommand}"
+                    Style="{DynamicResource Bouton}"
+                    FontSize="20" >
+                    <Button.ToolTip >
+                        <TextBlock Text="Retour à la page précédente"/>
+                    </Button.ToolTip>
+                    <StackPanel
+                    Orientation="Horizontal" 
+                    VerticalAlignment="Center" >
+                        <Image Source="{DynamicResource retour}" />
+
+                    </StackPanel>
+
+                </Button>
+                <Button
+                    Grid.Row="2"
+                   HorizontalAlignment="Right"
+                    VerticalAlignment="Top"
+                    Margin="0,40,0,0"
+                    x:Name="Copy"
+                    Click="Button_Click"
+                    MouseDoubleClick="Button_Click"
+                    Height="30"
+                    Width="30"
+                    Style="{DynamicResource Bouton}" >
+                    <Button.ToolTip >
+                        <TextBlock Text="Copier le résultat de l'optimisation"/>
+                    </Button.ToolTip>
+                    <StackPanel
+                    Orientation="Horizontal" 
+                    VerticalAlignment="Center" >
+                        <Image Source="{DynamicResource copy}" />
+
+                    </StackPanel>
+
+                </Button>
+                <Button
+                    Grid.Row="2"
+                  HorizontalAlignment="Right"
+                    x:Name="reinitialiser"
+                    Height="30"
+                    Width="30"
+                    Command="{Binding ReinitialiserCommand}"
+                    Style="{DynamicResource Bouton}"
+                    FontSize="20" >
+                    <Button.ToolTip >
+                        <TextBlock Text="Supprimez votre résultat"/>
+                    </Button.ToolTip>
+                    <StackPanel
+                    Orientation="Horizontal" 
+                    VerticalAlignment="Center" >
+                        <Image Source="{DynamicResource actualiser}" />
+
+                    </StackPanel>
+
+                </Button>
+
+            </Grid>
+
+
+
+
+
+        </StackPanel>
+        <StackPanel 
+            Grid.Row="1"
+            Grid.Column="2"
+            Grid.RowSpan="2">
+            <Button
+                  HorizontalAlignment="Left"
+                    Margin="0,85,0,0"
+                    x:Name="Simplifier"
+                    Height="45"
+                    Width="45"
+                    Command="{Binding ResultCommand}"
+                Style="{DynamicResource Bouton}"
+                    FontSize="20" >
+                <Button.ToolTip >
+                    <TextBlock Text="Simplifier votre expression numérique"/>
+                </Button.ToolTip>
+                <StackPanel
+                    Orientation="Horizontal" 
+                    VerticalAlignment="Center" >
+                    <Image Source="{DynamicResource optimiser}" />
+
+                </StackPanel>
+
+            </Button>
+        </StackPanel>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/elissatagzirt/Téléchargements/ADALES (1)/APPLICATION/APPLICATION.csproj": {}
+  },
+  "projects": {
+    "/home/elissatagzirt/Téléchargements/ADALES (1)/APPLICATION/APPLICATION.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/elissatagzirt/Téléchargements/ADALES (1)/APPLICATION/APPLICATION.csproj",
+        "projectName": "ADALES",
+        "projectPath": "/home/elissatagzirt/Téléchargements/ADALES (1)/APPLICATION/APPLICATION.csproj",
+        "packagesPath": "/home/elissatagzirt/.nuget/packages/",
+        "outputPath": "/home/elissatagzirt/Téléchargements/ADALES (1)/APPLICATION/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/home/elissatagzirt/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Costura.Fody": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.7.0, )"
+            },
+            "Fizzler": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "Fody": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.6.2, )"
+            },
+            "FontAwesome.WPF": {
+              "target": "Package",
+              "version": "[4.7.0.9, )"
+            },
+            "Haley.WPF": {
+              "target": "Package",
+              "version": "[5.2.10, )"
+            },
+            "Svg": {
+              "target": "Package",
+              "version": "[3.4.2, )"
+            },
+            "System.Buffers": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.5.4, )"
+            },
+            "System.Numerics.Vectors": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
